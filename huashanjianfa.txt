@@ -7,3 +7,4 @@ haha,我是布裙哥哥
 我从dongfangbubaicjw克隆出一份
 我push给dongfangbubaicjw
 我东方不败可以免密码登录了
+验证免密码登录
